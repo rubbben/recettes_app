@@ -1,4 +1,4 @@
-Une boite a recette realiser avec React
+Une boite à recettes realisée avec React
 
 ![r1](https://user-images.githubusercontent.com/45632518/83881115-77549980-a740-11ea-8339-86f589bd85f2.png)
 
